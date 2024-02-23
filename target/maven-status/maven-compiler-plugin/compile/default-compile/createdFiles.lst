@@ -1,0 +1,6 @@
+Vista\Main.class
+Controlador\Conexion.class
+Vista\Biblioteca.class
+Controlador\ControladorLibros.class
+Modelo\Libros.class
+Modelo\Personas.class
